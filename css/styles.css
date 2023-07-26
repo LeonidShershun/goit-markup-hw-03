@@ -30,6 +30,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     background-color: #FFFFFF;
+    margin: 0;
 }
 .link {
     text-decoration: none;
@@ -186,3 +187,21 @@ letter-spacing: 0.02em;
     top: 2420px;
     border-radius: 0px;
 }
+.container{
+    font-weight: 1158px;
+    display: flex;
+}
+.men_port{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px; 
+
+    /* position: absolute;
+    width: 586px;
+    height: 48px;
+    left: 427px;
+    top: 168px;
+    align-items: center;
+    padding: 12px 24px;*/} 
+    
